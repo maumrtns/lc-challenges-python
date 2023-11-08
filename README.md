@@ -10,3 +10,5 @@ O primeiro desafio é aplicação do **Método Twist** para codificação e deco
 # Curso digital: Git
 
 ## Salvando modificações no Git
+
+## Alterando o Git 2
