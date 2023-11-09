@@ -16,3 +16,5 @@ O primeiro desafio é aplicação do **Método Twist** para codificação e deco
 * comando git push
 
 * comando git pull
+
+* comando git fetch
