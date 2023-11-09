@@ -14,3 +14,4 @@ O primeiro desafio é aplicação do **Método Twist** para codificação e deco
 ## Alterando o Git 2
 
 * comando git push
+* comando git pull
